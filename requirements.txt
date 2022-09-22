@@ -1,0 +1,11 @@
+git+https://github.com/LuchnikovI/QGOpt
+git+https://github.com/jcmgray/cotengra.git
+qiskit==0.38.0
+TensorNetwork==0.4.6
+jax==0.3.17
+jaxlib==0.3.15
+ttpy==1.2.1
+kahypar==1.1.7
+quimb==1.4.0
+pylatexenc==2.10
+tensorflow==2.8.2
